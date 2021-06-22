@@ -1,0 +1,8 @@
+/__history/
+*.dproj
+*.local
+*.exe
+*.dll
+*.txt
+*.res
+*.identcache
